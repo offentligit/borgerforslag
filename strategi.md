@@ -5,3 +5,7 @@
 * Occupy Denmark
 * Folkebevægelsen for åbenhed
 
+## Relevante kontakter
+* PROSA
+* IDA
+
