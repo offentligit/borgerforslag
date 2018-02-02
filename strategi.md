@@ -8,4 +8,5 @@
 ## Relevante kontakter
 * PROSA
 * IDA
+* OS2
 
