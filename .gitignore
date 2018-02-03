@@ -4,3 +4,5 @@ forslag.dvi
 forslag.log
 forslag.out
 forslag.pdf
+*.bbl
+*.blg
