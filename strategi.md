@@ -10,3 +10,7 @@
 * IDA
 * OS2
 
+## Relevante kanaler
+* Schøtministeriet
+* Version2
+* Ingeniøren
