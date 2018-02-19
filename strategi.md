@@ -23,4 +23,5 @@
 * Børsen
 * Finans
 * Version2
+* PROSA-bladet
 * Ingeniøren
