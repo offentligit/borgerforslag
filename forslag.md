@@ -14,47 +14,51 @@ Lige nu er store dele af vores digitale liv ejet af få private virksomheder. De
 Lad os sammen skabe en fremtid hvor Danmark går forrest med billig, moderne og innovativ IT.
 
 ### Offentlig IT er billig IT
-Når staten køber et IT system i dag køber de katten i sækken. Staten ejer ikke engang
-systemet. Det gør den virksomhed, der har bygget det. Tænk hvis det også gjaldt for
-Storebæltsbroen. Så ville vi være tvunget til at gå til det firma der byggede
-broen i 1998 for at få lavet reparationer på den. Firmaet ville have monopol på alt
-der har med broen at gøre, og det ville være dyrt.
-Desværre er det præcis det, der sker med vores offentlige IT. Alene i årene
-2000-2014 har staten Danmark kastet 2,902 milliarder kroner væk på skrottet IT.<sup><a name="dr8">2</a></sup> Det svarer til ca. 7.000 fuldtidsansatte folkeskolelærer i de 14 år.
+Når staten køber et IT system i dag køber de katten i sækken.
+Staten ejer ikke engang systemet.
+Det gør den virksomhed, der har bygget det.
+Tænk hvis det også gjaldt for din bil: så ville producenten svejse motorhjelmen fast så snart den blev solgt.
+Selv ikke din mekaniker måtte få lov til at kigge i den.
+Så hvis bilen gik i stykker, ville du være tvunget til at køre den ødelagte bil hjem Asien, hvor den blev bygget.
 
-Hvis systemerne havde været ejet af staten kunne
-vi &ndash; ligesom med IC4 togene &ndash; redde og genbruge store dele af dem, selv efter
-projektet i første omgang gik galt.
+Desværre er det præcis det, der sker med vores offentlige IT.
+Alene i årene 2000-2014 har staten Danmark kastet 2,902 milliarder kroner væk på skrottet IT.<sup><a name="dr8">2</a></sup>
+Det svarer til 585 fuldtidsansatte sygeplejersker i de 14 år.
+
+Hvis systemerne havde været ejet af staten kunne vi &ndash; ligesom med en ødelagt bilmotor &ndash; redde og genbruge store dele af dem, selv efter de var brudt sammen.
+
 Det er en langt bedre løsning på en bedre digital hverdag i Danmark, fordi det vil gøre os til herre over eget hus. Vi skal kræve
 at vores leverandører lever op til åbne standarder så vi kan bygge videre på vores infrastruktur.
 
 ### Åbenhed giver kvalitet
 Millioner af sygdomsforløb, straffeattester og andre fortrolige
-dokumenter bliver dagligt sendt igennem vores offentlige IT platforme. Men langt størstedelen
-af vores IT infrastruktur er udenfor vores kontrol.
+dokumenter bliver dagligt sendt igennem vores offentlige IT platforme. Men langt størstedelen af vores IT infrastruktur er udenfor vores kontrol.
 
-Tag Danmarks love som et eksempel: de sørger for at staten og borgerne opfører sig
-ordentligt og de skaber tryghed og livskvalitet. Fordi vores IT systemer er lukkede
-kan vi ikke se om de overholder vores love. Vi kan faktisk ikke se om det er kvalitet eller skrammel. Hvorfor har vi ikke love, der sikrer at vores offentlige IT opfører sig ordentligt?
+Tag Danmarks love som et eksempel: de sørger for at staten og borgerne opfører sig ordentligt og de skaber tryghed og livskvalitet.
+Fordi vores IT systemer er lukkede kan vi ikke se om de overholder vores love.
+Vi kan faktisk ikke se om det er kvalitet eller skrammel.
+Hvorfor har vi ikke love, der sikrer at vores offentlige IT opfører sig ordentligt?
 
 Faktisk har uafhængig forskning gentagne gange vist at åbent IT ikke kun er billigere, men også bedre og mere effektivt <sup>[3](#samoladas)</sup>.
-Forklaringen ligger i at åben kode bliver bygget og set af mange flere mennesker. Og fire
-øjne er som bekendt bedre end to.
+Forklaringen ligger i at åben kode bliver bygget og set af mange flere mennesker. Og fire øjne er som bekendt bedre end to.
 
 ## Åbenhed giver innovation og vækst
-Danmark er kommet godt fra start i den digitale revolution, men hvis vi fortsætter
-med at udlicitere vores digitale infrastruktur, vil vi tabe vores digitale pust.
-Et problem vi har set igen og igen er, at vores systemer ikke kan tale sammen
+Nye IT-systemer bliver typisk købt i udlandet, fremfor at blive produceret
+herhjemme. I stedet for at *forbruger* IT, burde vi fokusere mere på
+at *producere* IT. Hvis vi holder fast i åbenheden skaber vi kvalitet til vores
+præcise behov, fremfor at købe dyre og dårlige metervarer.
+Et problem vi har set igen og igen er, at de indkøbte systemer ikke kan tale sammen
 <sup>[1](#ITU),[4](#Lauesen)</sup>. Inderhavnsbroen i København er et eksempel fra den
 fysiske verden, hvor de to sider af broen ikke kunne samles på midten. Det var også dyrt at rette op på.
 
 De knap 3 milliarder vi har smidt væk imellem 2000 og 2014 har ikke hjulpet Danmark til
-at komme foran i den digitale udvikling. Tværtimod. Men det kan de komme til fremover, hvis vi
-insisterer på at vores digitale broer skal kunne forbindes og arbejde sammen.
+at komme foran i den digitale udvikling. Tværtimod. Men det kan de komme til fremover, hvis vi insisterer på at vores digitale broer skal kunne forbindes og arbejde sammen.
 Mere åbenhed i vores offentlige IT infrastruktur betyder ikke kun at vi får øget
-kvalitet til færre penge. Det betyder at vi kan skabe bedre systemer.
+kvalitet til færre penge. Det betyder at vi kan skabe bedre systemer, der
+kan vare generationer, samtidig med at vi genererer værdi i Danmark.
 
-Samtidig åbner offentlig adgang til statens IT-projekter op for innovation og vækst. Stat og borger kan nu hjælpe hinanden med at fejlfinde, udbygge og forbedre. Fx vil virksomheder kunne deltage i udviklingen og lave mange små virksomheder fremfor få store. Og software er gratis at kopiere, så vi vil kunne bruge de samme løsninger igen og igen. Uden at betale ekstra. Det giver os mere tid til det, der er vigtigt.
+Samtidig åbner offentlig adgang til statens IT-projekter op for innovation og vækst. Stat og borger kan nu hjælpe hinanden med at fejlfinde, udbygge og forbedre.
+Og software er gratis at kopiere, så vi vil kunne bruge de samme løsninger igen og igen. Uden at betale ekstra. Det giver os mere tid til det, der er vigtigt.
 
 Med dette forslag vil vi bane vejen for en sikker og nem digital hverdag, hvor vi, Danmark og danskerne, har kontrollen, og hvor vi ejer de ting vi køber.
 
