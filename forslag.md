@@ -1,7 +1,7 @@
 # Offentlige midler, offentlig software
 
-***Folketinget pålægger den offentlige administration så vidt muligt at licensere og udgive offentlige IT-udviklingsopgaver åbent. I tilfælde hvor systemet ikke kan offentliggøres af sikkerhedsmæssige årsager, skal staten sikre ejerskab af infrastrukturen
-Koden bag offentlige IT-systemer skal med andre ord være tilgængelige for både borger og stat. Det vil sikre billigere systemer, højere kvalitet og dermed vækst.***
+***Folketinget pålægger den offentlige administration i højest mulig grad at licensere og udgive offentlige IT-udviklingsopgaver åbent. I tilfælde hvor et system ikke kan offentliggøres af sikkerhedsmæssige årsager, skal staten sikre ejerskab af både kode, data og infrastruktur.
+Koden bag offentlige IT-systemer skal med andre ord være tilgængelig for såvel borger som stat. Det vil sikre billigere systemer, højere kvalitet og dermed vækst.***
 
 ## Introduktion
 Offentlige IT-projekter udgør en væsentlig del af den infrastruktur, der får Danmark til at fungere.
@@ -10,7 +10,7 @@ Den offentlige sektor har gang på gang udviklet projekter, der er gået over bu
 Mange af disse problemer kunne være undgået<sup><a name="itu">1</a></sup>.
 
 Med dette forslag sikrer vi åbenhed og rimelighed i vores livsvigtige digitale infrastruktur.
-Lige nu er store dele af vores digitale liv ejet af få private virksomheder. Derfor er vi som land dybt afhængige af dem &ndash; det er dyrt og inffektivt!
+Lige nu er store dele af vores digitale liv ejet af få private virksomheder. Derfor er vi som land dybt afhængige af dem &ndash; og det er dyrt og inffektivt!
 Lad os sammen skabe en fremtid hvor Danmark går forrest med billig, moderne og innovativ IT.
 
 ### Offentlig IT er billig IT
@@ -68,8 +68,7 @@ Hjælp os ved at skrive under.
 
 Tak.
 
-<a name="ITU">1</a>: Vibeke Arildsen og Søren Lauesen: Offentlige it-skandaler kan forhindres, ITU 2017.
-Se https://www.itu.dk/om-itu/presse/nyheder/2017/offentlige-it-skandaler-kan-forhindres.
+<a name="ITU">1</a>: Vibeke Arildsen og Søren Lauesen: Offentlige it-skandaler kan forhindres, ITU 2017. Se https://www.itu.dk/om-itu/presse/nyheder/2017/offentlige-it-skandaler-kan-forhindres.
 
 <a name="dr8">2</a>: Skaaning, Jakob: Her er 8 store offentlige it-skandaler til milliarder, DR 2014. Se
 https://www.dr.dk/nyheder/penge/her-er-8-store-offentlige-it-skandaler-til-milliarder.
