@@ -44,7 +44,7 @@ Forklaringen ligger i at åben kode bliver bygget og set af mange flere menneske
 
 ## Åbenhed giver innovation og vækst
 Nye IT-systemer bliver typisk købt i udlandet, fremfor at blive produceret
-herhjemme. I stedet for at *forbruger* IT, burde vi fokusere mere på
+herhjemme. I stedet for at *forbruge* IT, burde vi fokusere mere på
 at *producere* IT. Hvis vi holder fast i åbenheden skaber vi kvalitet til vores
 præcise behov, fremfor at købe dyre og dårlige metervarer.
 Et problem vi har set igen og igen er, at de indkøbte systemer ikke kan tale sammen
